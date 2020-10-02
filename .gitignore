@@ -1,0 +1,8 @@
+*.mat
+*.pyc
+*.py~
+*.png
+*.pdf
+*.tiff
+*.dat
+*.jason
