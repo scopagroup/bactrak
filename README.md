@@ -2,17 +2,19 @@
 
 BacTrak is a Python implementation of the tracking algorithm described in the following manuscript:
 
-S. Saramadi et al. *Stochastic Neural Networks for Automatic Cell Tracking in Microscopy Image Sequences of Bacterial Colonies*. arXiv preprint, arXiv:2104.13482, 2022 [[arxiv](https://arxiv.org/abs/2104.13482).
+S. Saramadi et al. *Stochastic Neural Networks for Automatic Cell Tracking in Microscopy Image Sequences of Bacterial Colonies*. arXiv preprint, arXiv:2104.13482, 2022 [[arxiv](https://arxiv.org/abs/2104.13482)].
  
 
 ## Examples and Benchmarks
 
 We have included some benchmark files into this repository: Two binary images named 'J.png' (first frame) and 'J_plus.png' (second frame) in the 'Sample' subfolder. These images are shown below. The software used to generate these synthetic images can be found in the following repository: https://github.com/jwinkle/eQ. Our code can be executed using these two test images.
 
- ![J](Images/J_labeled_cells.png)
- 
- ![J_plus](Images/J_plus_labeled_cells.png)
- 
+
+<p align="center">
+<img src="Images/J_labeled_cells.png" alt="J"  width="300"/>
+<img src="Images/J_plus_labeled_cells.png" alt="J"  width="300"/>
+</p>
+
 
 After executing the code the following information will be displayed in your command window: 
 ``` 
