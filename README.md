@@ -2,7 +2,7 @@
 
 BacTrak is a `python` implementation of the tracking algorithm described in the following manuscript:
 
-S. Saramadi et al. *Stochastic Neural Networks for Automatic Cell Tracking in Microscopy Image Sequences of Bacterial Colonies*. arXiv preprint, arXiv:2104.13482, 2022 [[arxiv](https://arxiv.org/abs/2104.13482)].
+S. Sarmadi et al. *Stochastic Neural Networks for Automatic Cell Tracking in Microscopy Image Sequences of Bacterial Colonies*. arXiv preprint, arXiv:2104.13482, 2022 [[arxiv](https://arxiv.org/abs/2104.13482)].
 
 If you use this code we would appreciate if you add the above reference to your citations.
  
