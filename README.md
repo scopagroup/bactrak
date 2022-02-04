@@ -34,8 +34,8 @@ Besides that, we also store pictures to illustrate the registration results insi
 
 
 <p align="center">
-<img src="Images/Colored_J.png" alt="J"  width="800"/>
-<img src="Images/Colored_J_plus.png" alt="J"  width="800"/>
+<img src="Images/Colored_J.png" alt="J"  width="300"/>
+<img src="Images/Colored_J_plus.png" alt="J"  width="300"/>
 </p>
  
  
