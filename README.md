@@ -60,10 +60,12 @@ Our software depends on the following `python` packages:
 
 A BibTeX entry for LaTeX users is
 ```TeX
-@article{Saramadi:2022a,
+@article{Sarmadi:2022a,
 author = "S. Sarmadi and J. J. Winkle and R. N. Alnahhas and M. R. Bennett and K. Josic and A. Mang and R. Azencott"
 title = "Stochastic Neural Networks for Automatic Cell Tracking in Microscopy Image Sequences of Bacterial Colonies",
-journal = "arXiv",
-volume = "arXiv:2104.13482",
+journal = "Mathematical and Computational Applications",
+volume = "27",
+number = "2",
+pages = "22",
 year = "2022"}
 ```
